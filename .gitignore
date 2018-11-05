@@ -2,7 +2,7 @@ Sampled Reads/*
 Sample Genomes/*
 Out FLYE/*
 .ipynb_checkpoints/*
+Out Megahit/*
 
 !Sampled Reads/.gitkeep 
 !Sample Genomes/.gitkeep 
-!Out FLYE/.gitkeep 
