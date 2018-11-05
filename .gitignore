@@ -1,7 +1,7 @@
 Sampled Reads/*
 Sample Genomes/*
-Out Pacbio/*
+Out FLYE/*
 
 !Sampled Reads/.gitkeep 
 !Sample Genomes/.gitkeep 
-!Out Pacbio/.gitkeep 
+!Out FLYE/.gitkeep 
