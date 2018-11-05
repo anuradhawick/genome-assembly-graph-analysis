@@ -1,3 +1,7 @@
 Sampled Reads/*
 Sample Genomes/*
 Out Pacbio/*
+
+!Sampled Reads/.gitkeep 
+!Sample Genomes/.gitkeep 
+!Out Pacbio/.gitkeep 
