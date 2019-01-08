@@ -17,4 +17,4 @@ export genonepath=/home/659/aw5153/genome-assembly-graph-analysis/pipelines/inpu
 
 
 
-python3 assembly_improve.py
+python3 assembly_improve.py > pipeline_run_$PBS_JOBID.log
