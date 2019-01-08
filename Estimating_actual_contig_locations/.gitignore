@@ -1,0 +1,14 @@
+contigs/*
+canu_contigs_chr22/*
+chr22/*
+chr22canu/*
+chr22_chunk_align/*
+chr22_contig4/*
+chr22_contig4to2/*
+chr22_contig5/*
+chr22_flye_to_canu/*
+r4/*
+yeastcanu/*
+yeastgenome/*
+yeastgenome_refinedgraph/*
+.ipynb_checkpoints/*

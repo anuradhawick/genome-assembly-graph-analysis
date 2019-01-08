@@ -1,0 +1,10 @@
+graphs/*
+chr22/*
+simG4/*
+yeast/*
+yeast_refined/*
+
+!graphs/.gitkeep
+
+.ipynb_checkpoints/*
+

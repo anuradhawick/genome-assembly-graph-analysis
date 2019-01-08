@@ -1,7 +1,8 @@
-Sampled Reads/*
-Sampled Reads EColi/*
-Sample Genomes/*
-
+Sampled_Reads/*
+Sampled_Reads_EColi/*
+Sample_Genomes/*
+Sampled_Reads_Chr22/*
+Sampled_Reads_Yeast/*
 
 .ipynb_checkpoints/*
 

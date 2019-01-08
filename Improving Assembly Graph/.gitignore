@@ -1,9 +1,0 @@
-graphs/*
-links/*
-mappings/*
-contigs/*
-
-!graphs/.gitkeep
-
-.ipynb_checkpoints/*
-
