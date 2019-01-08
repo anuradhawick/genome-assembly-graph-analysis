@@ -23,7 +23,7 @@ def generate_reads():
 
     SeqIO.write(records, "./input/yeast/YeastAll.fa", "fasta")
 
-    command = """cd 'output/Sampled_Reads_Yeast' && pbsim --data-type CLR --depth 50 --model_qc $model_clr_path --length-min 20000 --length-max 30000 --difference-ratio 0:0:0 '/media/anuradhawick/data/Experiments/Assembly_Graph/pipelines/input/yeast/YeastAll.fa'"""
+    command = """cd 'output/Sampled_Reads_Yeast' && pbsim --data-type CLR --depth 50 --model_qc $model_clr_path --length-min 20000 --length-max 30000 --difference-ratio 0:0:0 $genonepath"""
 
     cmd_exit(command, "generating reads from yeast")
 
