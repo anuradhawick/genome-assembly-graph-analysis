@@ -1,7 +1,7 @@
 #!/bin/bash
 #PBS -q normal
-#PBS -l ncpus=16
-#PBS -l mem=60GB
+#PBS -l ncpus=32
+#PBS -l mem=64GB
 #PBS -l jobfs=20GB
 #PBS -l walltime=10:00:00
 #PBS -l wd
