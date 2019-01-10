@@ -21,5 +21,6 @@ mkdir -p $out_dir
 export working_path=$(pwd)
 
 
-sh generate_reads.sh > $out_dir/log1_$PBS_JOBID.log
-sh canu.sh > $out_dir/log2_$PBS_JOBID.log
+# sh generate_reads.sh > $out_dir/log1_$PBS_JOBID.log
+# sh canu.sh > $out_dir/log2_$PBS_JOBID.log
+sh flye.sh > $out_dir/log3_$PBS_JOBID.log
