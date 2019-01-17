@@ -10,5 +10,7 @@ chr22_flye_to_canu/*
 r4/*
 yeastcanu/*
 yeastgenome/*
+yeast_nci/*
+yeast_nci_canu/*
 yeastgenome_refinedgraph/*
 .ipynb_checkpoints/*
