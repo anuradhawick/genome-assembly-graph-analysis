@@ -14,6 +14,7 @@ PATH=$PATH:/home/659/aw5153/canu/Linux-amd64/bin/:/home/659/aw5153/flye/bin/:/ho
 java_path=$(which java)
 
 export out_dir=/short/qr59/aw5153/pipeline_output_hap_3
+
 # export out_dir=/media/anuradhawick/data/Experiments/Assembly_Graph/pipelines/output
 
 mkdir -p $out_dir
