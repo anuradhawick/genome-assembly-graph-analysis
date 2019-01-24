@@ -1,5 +1,5 @@
 export model_clr_path=/home/659/aw5153/PBSIM-PacBio-Simulator/data/model_qc_clr
-export genomepath=/short/qr59/aw5153/genome-assembly-graph-analysis/pipelines/input/yeast/all.fa
+export genomepath=/short/qr59/aw5153/genome-assembly-graph-analysis/pipelines/input/yeast/all.fasta
 
 # export model_clr_path=/media/anuradhawick/data/Tools/PBSIM-PacBio-Simulator/data/model_qc_clr
 # export genomepath=/media/anuradhawick/data/Experiments/Assembly_Graph/pipelines/input/yeast/all.fa
