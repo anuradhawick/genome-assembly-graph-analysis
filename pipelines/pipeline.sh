@@ -3,7 +3,7 @@
 #PBS -l ncpus=32
 #PBS -l mem=64GB
 #PBS -l jobfs=1GB
-#PBS -l walltime=1:00:00
+#PBS -l walltime=5:00:00
 #PBS -l wd
 
 module load python3/3.6.2
