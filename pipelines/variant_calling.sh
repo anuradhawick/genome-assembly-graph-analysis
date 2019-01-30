@@ -10,10 +10,10 @@ export out_dir=/short/qr59/aw5153/pipeline_output_hap_5_vc
 export graph_path=/short/qr59/aw5153/pipeline_output_hap_5/flye_yeast/assembly_graph.gfa
 export reads_path=/short/qr59/aw5153/pipeline_output_hap_5/yeast_reads/all.fastq
 
-awk '/^S/{print ">"$2"\n"$3}' $graph_path | fold > $out_dir/contigs.fasta
-
 [ -e $out_dir ] && rm -r $out_dir
 mkdir -p $out_dir/mappings
+
+awk '/^S/{print ">"$2"\n"$3}' $graph_path | fold > $out_dir/contigs.fasta
 
 echo INFO::Running mapping functions
 
