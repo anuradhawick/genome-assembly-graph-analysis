@@ -6,6 +6,8 @@
 #PBS -l walltime=5:00:00
 #PBS -l wd
 
+module load bcftools/1.9
+
 export out_dir=/short/qr59/aw5153/pipeline_output_hap_5_vc
 
 echo INFO::Running phasing calls:preprocess BCF -> VCF
